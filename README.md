@@ -39,8 +39,11 @@ The system allows users to perform essential file operations such as creating, r
    
 	1.	Clone the repository:
   git clone https://github.com/adityaph-17/Java-File-Management-System-OSY.git
+  
     2.  Open the project in your Java IDE.
+	
 	3.	Compile and run the Main.java file.
+	
 	4.	Follow the on-screen menu to perform file operations.
 
 ⸻
