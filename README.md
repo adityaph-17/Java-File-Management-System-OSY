@@ -11,6 +11,7 @@ The system allows users to perform essential file operations such as creating, r
 ⸻
 
  Objectives
+ 
 	•	To simulate basic file management operations in Java.
 	•	To understand how file systems are organized and managed in an OS.
 	•	To provide a simple and user-friendly interface for handling file operations.
@@ -18,6 +19,7 @@ The system allows users to perform essential file operations such as creating, r
 ⸻
 
  Features
+ 
 	•	Create new files and directories
 	•	Read and display file contents
 	•	Write data into files
@@ -28,14 +30,16 @@ The system allows users to perform essential file operations such as creating, r
 ⸻
 
  Technologies Used
+ 
 	•	Language: Java
 	•	IDE: NetBeans / IntelliJ / Eclipse (any)
 	•	Concepts Covered: File Handling, I/O Streams, Exception Handling, and OS-level file operations
 
    How to Run
+   
 	1.	Clone the repository:
   git clone https://github.com/adityaph-17/Java-File-Management-System-OSY.git
-  2.	Open the project in your Java IDE.
+    2.  Open the project in your Java IDE.
 	3.	Compile and run the Main.java file.
 	4.	Follow the on-screen menu to perform file operations.
 
